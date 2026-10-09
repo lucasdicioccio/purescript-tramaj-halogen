@@ -36,7 +36,7 @@
               "strings": ">=6.0.1 <7.0.0"
             },
             {
-              "tramaj-purs": ">=0.3.3 <0.4.0"
+              "tramaj-purs": ">=0.4.0 <0.5.0"
             },
             {
               "tuples": ">=7.0.0 <8.0.0"
@@ -700,7 +700,7 @@
       }
     },
     "extra_packages": {
-      "tramaj-purs": "0.3.3"
+      "tramaj-purs": "0.4.0"
     }
   },
   "packages": {
@@ -1497,8 +1497,8 @@
     },
     "tramaj-purs": {
       "type": "registry",
-      "version": "0.3.3",
-      "integrity": "sha256-v99SyArqTlRU1DSyXjSo685G2D8u49AmuwgtLbXu0rE=",
+      "version": "0.4.0",
+      "integrity": "sha256-jmsSigrx1Y8/X/Nuq7pwrswFkV18etexvwPTktbFuYA=",
       "dependencies": [
         "argonaut-core",
         "arrays",
